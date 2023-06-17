@@ -81,7 +81,6 @@ class ConsonantValue {
         }, preg_split('/[aeiou]/', $s));
     
         $max = max($arrayTemp);
-        
         return $max;
     }
 
