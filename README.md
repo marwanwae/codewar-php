@@ -1,2 +1,2 @@
 # codewar-php
-nay profile codewar https://www.codewars.com/users/marwanwae
+my profile codewar https://www.codewars.com/users/marwanwae
